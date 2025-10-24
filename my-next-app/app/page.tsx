@@ -13,7 +13,7 @@ export default function Home() {
           hoverFillColor="#444"
         />
       </div>
-      <div className="max-w-md w-full relative z-10 backdrop-blur-md bg-black/30 rounded-3xl p-8 border border-white/30 shadow-2xl">
+      <div className="max-w-md w-full relative z-10 backdrop-blur-lg bg-black/10 rounded-3xl p-8 border border-white/40 shadow-2xl">
         {/* Profile Section */}
         <div className="text-center mb-8">
           <div className="w-24 h-24 rounded-full mx-auto mb-4 overflow-hidden ring-4 ring-white/30 shadow-xl">
